@@ -1,0 +1,151 @@
+{
+  "about": "Cirrusgo is a full-service provider of custom-designed, cloud-based IT solutions and a part of Amazon's AWS Partner Network (APN) . What does that mean? It means that our company is one of a few, select outside business consulting and IT companies that Amazon has approved as a provider of quality IT services under their APN umbrella. cirrusgo experts will help you set up your cloud infrastructure based on your company's size and individual needs.",
+  "mission": "Our Mission M ake Cloud Easier For Our Clients! A t cirrusgo is to use the latest cloud IT solutions to make it easier for our clients to grow their businesses and provide excellent customer service. We want you to be able to concentrate on the things you do best: interacting with your customers, investors and suppliers. Our creative and collaborative working environment allows our team to be innovative about finding solutions that will work well for individual clients. We excel at simplifying complex IT problems at a reasonable cost. In short, we'll handle all of your cloud computing needs. Working with cirrusgo Learn the difference We invite you to learn the difference where cirrusgo can help you scale, leverage, and optimize your successful digital transformation journey. We save your time on growing and operating your business while cirrusgo's certified engineers and experts with +50 AWS associates , speciality, and professional certifications are ready to achieve that. Partnering with cirrusgo benefiting the cloud is boosting your IT productivity and efficiency, improving agility, minimizing security incidents, and accelerating your cloud journey toward a data-driven business. We're passionate about cloud technologies connecting the future, and we'd like to share that passion with you and your team.",
+  "services": [
+    {
+      "title": "Unlock the potential",
+      "description": "Unlock the potential of scalable infrastructure, enhanced security, and streamlined operations as we guide your transition."
+    },
+    {
+      "title": "Our experts ensure",
+      "description": "Our experts ensure a smooth migration of applications, data, and processes, minimizing disruptions and maximizing benefits."
+    },
+    {
+      "title": "Experience the agility",
+      "description": "Experience the agility and cost-efficiency of cloud computing, as we tailor solutions to match your unique needs."
+    },
+    {
+      "title": "Step confidently into",
+      "description": "Step confidently into the cloud era, where innovation and flexibility converge to drive your business forward."
+    },
+    {
+      "title": "Designed for budget-conscious",
+      "description": "Designed for budget-conscious enterprises, we deploy a comprehensive methodology to control costs while crafting modern, scalable applications."
+    },
+    {
+      "title": "By analyzing service",
+      "description": "By analyzing service expenses and implementing strategic changes, we drive impactful cost reductions, delivering added value to your operations."
+    },
+    {
+      "title": "Trust cirrusgo to",
+      "description": "Trust cirrusgo to empower your business with efficient spending practices and a competitive financial advantage."
+    },
+    {
+      "title": "AI-driven content creation",
+      "description": "AI-driven content creation into your workflows, accelerating innovation and enhancing decision-making."
+    },
+    {
+      "title": "Through advanced natural",
+      "description": "Through advanced natural language understanding, image generation, and automation, we optimize how your business generates insights and creative outputs."
+    },
+    {
+      "title": "Experience faster ideation,",
+      "description": "Experience faster ideation, improved accuracy, and scalable solutions."
+    },
+    {
+      "title": "AI expertise, driving",
+      "description": "AI expertise, driving efficiency and growth for your business"
+    },
+    {
+      "title": "From data modeling",
+      "description": "From data modeling and visualization to data warehousing, governance, and predictive analytics, we empower businesses to extract maximum value from their data."
+    },
+    {
+      "title": "By analyzing and",
+      "description": "By analyzing and visually presenting data, we enable smarter decisions and streamlined operations."
+    },
+    {
+      "title": "Elevate your business",
+      "description": "Elevate your business strategy with our comprehensive suite of services, transforming raw data into actionable insights that drive success."
+    },
+    {
+      "title": "WS workloads with",
+      "description": "WS workloads with our active oversight and assistance."
+    },
+    {
+      "title": "Architected review provides",
+      "description": "Architected review provides invaluable insights into workload performance and associated costs."
+    },
+    {
+      "title": "By meticulously assessing",
+      "description": "By meticulously assessing your architecture, we pinpoint risks and recommend remediation, resulting in more than a 45% resolution of high-risk areas."
+    },
+    {
+      "title": "Count on us",
+      "description": "Count on us for expert guidance in enhancing your architecture and ensuring optimal operations, giving your business the edge it deserves."
+    },
+    {
+      "title": "Embrace cutting-edge technologies",
+      "description": "Embrace cutting-edge technologies to enhance performance, scalability, and user experiences."
+    },
+    {
+      "title": "Our experts will",
+      "description": "Our experts will guide you through the transformation process whether it's rearchitecting, refactoring, or migrating to modern platforms."
+    },
+    {
+      "title": "Experience increased agility,",
+      "description": "Experience increased agility, reduced maintenance, and improved innovation potential."
+    },
+    {
+      "title": "Elevate your applications",
+      "description": "Elevate your applications to meet the demands of today's fast paced business landscape with our tailored modernization solutions."
+    },
+    {
+      "title": "WS professionals will",
+      "description": "WS professionals will assist your businesses in designing, deploying, and managing cloud based infrastructure as well as providing expert guidance on cloud strategy, architectural design, cost optimization, security, and compliance."
+    },
+    {
+      "title": "From proactive monitoring",
+      "description": "From proactive monitoring and maintenance to strategic planning we ensure your cloud environment is efficient, secure, and aligned with your goals."
+    },
+    {
+      "title": "WS experience and",
+      "description": "WS experience and focus on innovation, while we handle the complexities of managing your cloud infrastructure."
+    },
+    {
+      "title": "Services designed to",
+      "description": "Services designed to empower enterprises in effectively managing their"
+    },
+    {
+      "title": "WS infrastructure with",
+      "description": "WS infrastructure with a team of certified engineers, we offer continuous monitoring, troubleshooting, and optimization of your"
+    },
+    {
+      "title": "Our focus is",
+      "description": "Our focus is on ensuring seamless operation and peak performance so your applications remain consistently available and functional."
+    },
+    {
+      "title": "Seamlessly blend development",
+      "description": "Seamlessly blend development and operations, accelerating your release cycles and enhancing collaboration."
+    },
+    {
+      "title": "Through automation, continuous",
+      "description": "Through automation, continuous integration, and continuous deployment, we optimize your software delivery pipeline."
+    },
+    {
+      "title": "Experience efficient code",
+      "description": "Experience efficient code management, rapid updates, and improved quality control."
+    },
+    {
+      "title": "Ops expertise, driving",
+      "description": "Ops expertise, driving innovation and agility for your business."
+    }
+  ],
+  "aws_competencies": [
+    "cirrusgo Orchestrate AWS with cirrusgo 5 Partner Programs 7 AWS Service Validations 5 AWS Competencies 50+ AWS Certificates cirrusgo is a full-service provider of cloud-based IT solutions and proudly holds the distinction of being the very first AWS Advanced consulting partner headquartered in Jordan. This means that our company is one of the few selected outside business consulting and IT companies that AWS has approved as a trusted provider. The cirrusgo team consists of certified engineers and experts with over 50 AWS associate, specialty, and professional certifications. They are fully equipped to assist you in your cloud adoption and modernization journey. Delivered Services and Competencies Cloud Operations Cirrusgo will help you manage your cloud environment operations by leveraging AWS and third-party services for monitoring and observability... read more Generative AI Cirrusgo offers a generative AI service, as the ability to create intelligent, context-aware content is crucial for enhancing productivity and innovation... read more Government Practices Governments operate in a complex and special landscape, requiring specialized knowledge and experience to navigate effectively... read more Containerization Practices Cirrusgo utilizes Amazon Elastic container service (ECS) for streamlined application testing and deployment, enhancing agility and cost-effectiveness. We manage container complexities, ensuring seamless operations and scalability.. ... read more Amazon EC2 for Windows Amazon EC2 for Windows empowers businesses with unmatched efficiency, cost savings, reliability & global reach. No more traditional IT constraints, embrace scalability and innovation.. read more Cloud Migration Cirrusgo provides a fully-managed continuous integration and delivery service that helps developers build, test and deploy applications on AWS. Transform your business and simplify your migration workflow... Read More Relational Database Cirrusgo solution architects consider using Amazon Relational Database Service (Amazon RDS) managed relational databases for SQL, MySQL, PostgreSQL, Oracle and MariaDB. if the application requires an exceptional and very high performance relational database based on MySQL or PostgreSQL, we consider designing and deploying Amazon Aurora. End User Computing Cirrusgo will help you manage access to your Workspaces by adopting Amazon End user computing solutions. Run your compute intensive Applications, manage remote workforce, remote students & labs, and contract staff, using Amazon WorkSpaces and Amazon AppStream 2.0 that optimize cost, Increase agility & flexibility, reliability & continuity, and security & control. Well-Architected Review Cirrusgo offers a well-architected review service, as the health and efficiency of your application are crucial for successfully... read more Cloud Security Security is a shared responsibility between AWS and the customer. cirrusgo uses Amazon provided services to secure your data in the cloud. In order to secure your application, and encrypt your data in transit and at rest, our solution architects frequently consider using AWS WAF, AWS Certificate Manager (ACM), and AWS Key Management Service (AWS KMS) to achieve that."
+  ],
+  "solutions": [],
+  "why_cirrusgo": "Seasoned Specialists Cirrusgo Arab Native Engineers help you automate your business's transfer to AWS cloud, maximizing performance for exceptional growth. Innovation Pathfinders Cirrusgo pushes the boundaries of digital transformation, leveraging AI to position your business as a trailblazer in the evolving cloud landscape. Trustworthy Partner Cirrusgo is dedicated to developing strong partnerships and providing tailored AWS solutions to ensure that your digital journey aligns precisely with your specific business objectives.",
+  "blog_highlights": [
+    "Jun",
+    "Jun",
+    "Migration Competency Oct",
+    "Jul",
+    "Jul",
+    "Jul",
+    "Jul",
+    "Jun",
+    "News Jun",
+    "Oct"
+  ]
+}

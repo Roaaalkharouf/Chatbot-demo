@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Cirrusgo AI Chatbot</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+
+  <!-- ================= NAVBAR ================= -->
+  <header class="navbar">
+    <div class="navbar-container">
+
+      <div class="navbar-logo">
+        <span class="logo-text">cirrus<span>go</span></span>
+      </div>
+
+      <nav class="navbar-links">
+        <a href="#" class="nav-item active">Home</a>
+        <a href="#" class="nav-item">Services</a>
+        <a href="#" class="nav-item">AWS</a>
+        <a href="#" class="nav-item">Insights</a>
+        <a href="#" class="nav-item">Events</a>
+        <a href="#" class="nav-item">About Us</a>
+      </nav>
+
+      <div class="navbar-user">
+        <span>Roa’a Al Kharouf</span>
+        <span class="chevron">▾</span>
+      </div>
+
+    </div>
+  </header>
+
+  <!-- ================= PAGE CONTENT ================= -->
+  <main class="page-content">
+    <div class="hero-text">
+      <h1>Embrace The Future Today!</h1>
+      <h2>Start Your AWS Cloud Adoption Journey</h2>
+      <p>
+        Unlock the power of the Cloud with cirrusgo! As industry leaders in AWS,
+        we guide organizations towards seamless cloud adoption and maximum value.
+      </p>
+      <img src="city.png"> 
+    </div>
+  </main>
+
+  <!-- ================= CHATBOT TOGGLE ================= -->
+  <div id="chat-toggle">💬</div>
+
+  <!-- ================= CHATBOT ================= -->
+  <div id="chat-widget" class="hidden">
+
+    <div class="chat-widget-header">
+      <div class="chat-header-left">
+        <img src="cirrusgo.png" alt="Assistant" />
+        <span>Cirrusgo Assistant</span>
+      </div>
+      <button id="chat-close">✕</button>
+    </div>
+
+    <div id="chat-body" class="chat-widget-body">
+      <div class="bot-message">
+        Hello! I'm your AI assistant. How can I help you?
+      </div>
+    </div>
+
+    <form id="chat-form" class="chat-widget-input">
+      <input
+        id="user-input"
+        type="text"
+        placeholder="Type your message..."
+        autocomplete="off"
+        required
+      />
+      <button type="submit">➤</button>
+    </form>
+
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
