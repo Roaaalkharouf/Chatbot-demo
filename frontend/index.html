@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title> Cirrusgo AI Chatbot</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <div class="page-bg">
+    <div class="chat-card">
+
+      <!-- Header -->
+      <div class="chat-header">
+       Cirrusgo Chatbot
+      </div>
+      <nav class="nav-links">
+        <a href="#" class="active"> Home </a>
+        <a href="#"> Services </a>
+        <a href="#"> AWS </a>
+        <a href="#"> Insights </a>
+        <a href="#"> Events </a>
+        <a href="#"> About Us </a>
+</nav>
+      <!-- Chat messages -->
+      <div id="chat-body" class="chat-body">
+        <div class="bot-message">
+          Hello! I'm your AI assistant. How can I help you?
+        </div>
+      </div>
+
+      <!-- INPUT FORM (THIS IS THE FIX) -->
+      <form id="chat-form" class="chat-input">
+        <input
+          id="user-input"
+          type="text"
+          placeholder="Type your message..."
+          autocomplete="off"
+          required
+        />
+        <button type="submit" id="send-btn">
+          Send
+        </button>
+      </form>
+
+    </div>
+  </div>
+
+  <!-- JS MUST BE LAST -->
+  <script src="script.js"></script>
+</body>
+</html>
